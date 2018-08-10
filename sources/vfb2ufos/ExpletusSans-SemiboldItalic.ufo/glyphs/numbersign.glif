@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="894"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="459" y="0" type="line"/>
+      <point x="472" y="45"/>
+      <point x="487" y="90"/>
+      <point x="501" y="135" type="curve" smooth="yes"/>
+      <point x="511" y="159" type="line"/>
+      <point x="332" y="158" type="line" name="hr01"/>
+      <point x="353" y="202"/>
+      <point x="384" y="237"/>
+      <point x="459" y="237" type="curve" smooth="yes"/>
+      <point x="531" y="237" type="line"/>
+      <point x="594" y="439" type="line"/>
+      <point x="607" y="468" type="line"/>
+      <point x="396" y="467" type="line"/>
+      <point x="250" y="0" type="line" name="hr02"/>
+      <point x="152" y="0" type="line"/>
+      <point x="166" y="45"/>
+      <point x="180" y="92"/>
+      <point x="195" y="137" type="curve" smooth="yes"/>
+      <point x="205" y="159" type="line"/>
+      <point x="90" y="158" type="line" name="hr03"/>
+      <point x="99" y="236" type="line"/>
+      <point x="224" y="236" type="line"/>
+      <point x="290" y="442" type="line"/>
+      <point x="300" y="468" type="line"/>
+      <point x="187" y="467" type="line"/>
+      <point x="197" y="546" type="line"/>
+      <point x="323" y="546" type="line"/>
+      <point x="371" y="702" type="line" name="hr04"/>
+      <point x="469" y="702" type="line"/>
+      <point x="420" y="546" type="line" name="hr05"/>
+      <point x="629" y="546" type="line"/>
+      <point x="678" y="702" type="line" name="hr06"/>
+      <point x="776" y="702" type="line"/>
+      <point x="727" y="546" type="line" name="hr07"/>
+      <point x="839" y="546" type="line"/>
+      <point x="829" y="467" type="line"/>
+      <point x="702" y="467" type="line"/>
+      <point x="630" y="237" type="line"/>
+      <point x="741" y="237" type="line"/>
+      <point x="731" y="158" type="line"/>
+      <point x="607" y="158" type="line"/>
+      <point x="557" y="0" type="line" name="hr08"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjE1OCIgd2lkdGg9Ijc4IiAvPgogICAgICA8
+aHN0ZW0gcG9zPSI0NjciIHdpZHRoPSI3OSIgLz4K
+ICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0IHBv
+aW50VGFnPSJocjAyIj4KICAgICAgPGhzdGVtIHBv
+cz0iMCIgd2lkdGg9IjIzNiIgLz4KICAgICAgPGhz
+dGVtIHBvcz0iNDY3IiB3aWR0aD0iNzkiIC8+CiAg
+ICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBwb2lu
+dFRhZz0iaHIwMyI+CiAgICAgIDxoc3RlbSBwb3M9
+IjE1OCIgd2lkdGg9Ijc4IiAvPgogICAgICA8aHN0
+ZW0gcG9zPSI0NjciIHdpZHRoPSI3OSIgLz4KICAg
+IDwvaGludHNldD4KICAgIDxoaW50c2V0IHBvaW50
+VGFnPSJocjA0Ij4KICAgICAgPGhzdGVtIHBvcz0i
+MCIgd2lkdGg9IjIzNiIgLz4KICAgICAgPGhzdGVt
+IHBvcz0iNDY3IiB3aWR0aD0iMjM1IiAvPgogICAg
+PC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRU
+YWc9ImhyMDUiPgogICAgICA8aHN0ZW0gcG9zPSIw
+IiB3aWR0aD0iMjM2IiAvPgogICAgICA8aHN0ZW0g
+cG9zPSI0NjciIHdpZHRoPSI3OSIgLz4KICAgIDwv
+aGludHNldD4KICAgIDxoaW50c2V0IHBvaW50VGFn
+PSJocjA2Ij4KICAgICAgPGhzdGVtIHBvcz0iMCIg
+d2lkdGg9IjIzNiIgLz4KICAgICAgPGhzdGVtIHBv
+cz0iNDY3IiB3aWR0aD0iMjM1IiAvPgogICAgPC9o
+aW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9
+ImhyMDciPgogICAgICA8aHN0ZW0gcG9zPSIxNTgi
+IHdpZHRoPSI3OCIgLz4KICAgICAgPGhzdGVtIHBv
+cz0iNDY3IiB3aWR0aD0iNzkiIC8+CiAgICA8L2hp
+bnRzZXQ+CiAgICA8aGludHNldCBwb2ludFRhZz0i
+aHIwOCI+CiAgICAgIDxoc3RlbSBwb3M9IjAiIHdp
+ZHRoPSIyMzYiIC8+CiAgICAgIDxoc3RlbSBwb3M9
+IjQ2NyIgd2lkdGg9Ijc5IiAvPgogICAgPC9oaW50
+c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

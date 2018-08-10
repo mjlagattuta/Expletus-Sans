@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="1">
+  <advance width="235"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="213" y="309" type="line" name="hr00"/>
+      <point x="136" y="309" type="line"/>
+      <point x="177" y="636" type="line"/>
+      <point x="112" y="605" type="line"/>
+      <point x="89" y="657" type="line"/>
+      <point x="228" y="727" type="line"/>
+      <point x="265" y="727" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjMwOSIgd2lkdGg9Ii0yMSIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iNzI3IiB3aWR0aD0iLTIxIiAv
+PgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExp
+c3Q+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

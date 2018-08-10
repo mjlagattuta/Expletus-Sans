@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="1">
+  <advance width="514"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="338" y="638" type="curve" smooth="yes"/>
+      <point x="271" y="638"/>
+      <point x="224" y="594"/>
+      <point x="218" y="544" type="curve" smooth="yes"/>
+      <point x="200" y="392"/>
+      <point x="522" y="395"/>
+      <point x="495" y="176" type="curve" smooth="yes"/>
+      <point x="485" y="96"/>
+      <point x="413" y="14"/>
+      <point x="298" y="-6" type="curve"/>
+      <point x="285" y="-107" type="line"/>
+      <point x="213" y="-107" type="line"/>
+      <point x="225" y="-11" type="line" name="hr01"/>
+      <point x="171" y="-8"/>
+      <point x="107" y="5"/>
+      <point x="49" y="36" type="curve"/>
+      <point x="83" y="101" type="line"/>
+      <point x="141" y="73"/>
+      <point x="194" y="62"/>
+      <point x="242" y="62" type="curve" smooth="yes"/>
+      <point x="328" y="62"/>
+      <point x="390" y="117"/>
+      <point x="397" y="178" type="curve" smooth="yes"/>
+      <point x="418" y="344"/>
+      <point x="97" y="326"/>
+      <point x="123" y="544" type="curve" smooth="yes"/>
+      <point x="134" y="630"/>
+      <point x="212" y="701"/>
+      <point x="314" y="711" type="curve"/>
+      <point x="326" y="810" type="line"/>
+      <point x="398" y="810" type="line"/>
+      <point x="386" y="709" type="line"/>
+      <point x="423" y="705"/>
+      <point x="459" y="696"/>
+      <point x="507" y="681" type="curve"/>
+      <point x="471" y="616" type="line"/>
+      <point x="415" y="633"/>
+      <point x="376" y="638"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>587</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii0xMSIgd2lkdGg9IjczIiAvPgogICAgICA8
+aHN0ZW0gcG9zPSI2MzgiIHdpZHRoPSIxNzIiIC8+
+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlz
+dD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

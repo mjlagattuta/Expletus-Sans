@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ograve" format="1">
+  <advance width="791"/>
+  <unicode hex="00D2"/>
+  <outline>
+    <contour>
+      <point x="290" y="802" type="curve"/>
+      <point x="225" y="890" type="line"/>
+      <point x="343" y="890" type="line"/>
+      <point x="417" y="765" type="line"/>
+      <point x="383" y="757"/>
+      <point x="319" y="762"/>
+    </contour>
+    <contour>
+      <point x="602" y="364" type="curve" smooth="yes"/>
+      <point x="602" y="527"/>
+      <point x="517" y="650"/>
+      <point x="383" y="650" type="curve" smooth="yes"/>
+      <point x="248" y="650"/>
+      <point x="163" y="527"/>
+      <point x="163" y="364" type="curve" smooth="yes"/>
+      <point x="163" y="206"/>
+      <point x="248" y="77"/>
+      <point x="383" y="77" type="curve" smooth="yes"/>
+      <point x="517" y="77"/>
+      <point x="602" y="206"/>
+    </contour>
+    <contour>
+      <point x="735" y="364" type="curve" smooth="yes"/>
+      <point x="735" y="140"/>
+      <point x="582" y="-14"/>
+      <point x="383" y="-14" type="curve" smooth="yes"/>
+      <point x="171" y="-14"/>
+      <point x="30" y="137"/>
+      <point x="30" y="364" type="curve" smooth="yes"/>
+      <point x="30" y="587"/>
+      <point x="177" y="742"/>
+      <point x="383" y="742" type="curve" smooth="yes" name="hr01"/>
+      <point x="594" y="742"/>
+      <point x="735" y="590"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii0xNCIgd2lkdGg9IjkxIiAvPgogICAgICA8
+aHN0ZW0gcG9zPSI2NTAiIHdpZHRoPSI5MiIgLz4K
+ICAgICAgPHZzdGVtIHBvcz0iMzAiIHdpZHRoPSIx
+MzMiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjYwMiIg
+d2lkdGg9IjEzMyIgLz4KICAgIDwvaGludHNldD4K
+ICA8L2hpbnRTZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

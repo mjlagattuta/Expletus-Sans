@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="1">
+  <advance width="786"/>
+  <unicode hex="0051"/>
+  <outline>
+    <contour>
+      <point x="648" y="115" type="curve"/>
+      <point x="720" y="42" type="line"/>
+      <point x="660" y="-17" type="line"/>
+      <point x="413" y="235" type="line"/>
+      <point x="473" y="294" type="line"/>
+      <point x="567" y="197" type="line"/>
+      <point x="580" y="177" type="line"/>
+      <point x="587" y="202" type="line"/>
+      <point x="613" y="252"/>
+      <point x="621" y="310"/>
+      <point x="621" y="364" type="curve" smooth="yes"/>
+      <point x="621" y="540"/>
+      <point x="526" y="660"/>
+      <point x="394" y="660" type="curve" smooth="yes"/>
+      <point x="263" y="660"/>
+      <point x="166" y="540"/>
+      <point x="166" y="364" type="curve" smooth="yes"/>
+      <point x="166" y="192"/>
+      <point x="259" y="68"/>
+      <point x="389" y="68" type="curve" smooth="yes" name="hr01"/>
+      <point x="409" y="68"/>
+      <point x="425" y="70"/>
+      <point x="443" y="74" type="curve" smooth="yes"/>
+      <point x="480" y="80"/>
+      <point x="524" y="64"/>
+      <point x="546" y="40" type="curve"/>
+      <point x="493" y="3"/>
+      <point x="441" y="-14"/>
+      <point x="389" y="-14" type="curve" smooth="yes"/>
+      <point x="192" y="-14"/>
+      <point x="50" y="137"/>
+      <point x="50" y="364" type="curve" smooth="yes"/>
+      <point x="50" y="591"/>
+      <point x="202" y="742"/>
+      <point x="394" y="742" type="curve" smooth="yes"/>
+      <point x="594" y="742"/>
+      <point x="738" y="595"/>
+      <point x="738" y="364" type="curve" smooth="yes"/>
+      <point x="738" y="273"/>
+      <point x="708" y="198"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii0xNCIgd2lkdGg9IjgyIiAvPgogICAgICA8
+aHN0ZW0gcG9zPSI2NjAiIHdpZHRoPSI4MiIgLz4K
+ICAgICAgPHZzdGVtIHBvcz0iNTAiIHdpZHRoPSIx
+MTYiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjYyMSIg
+d2lkdGg9IjExNyIgLz4KICAgIDwvaGludHNldD4K
+ICA8L2hpbnRTZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

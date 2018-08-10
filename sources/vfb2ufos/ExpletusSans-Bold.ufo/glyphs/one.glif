@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one" format="1">
+  <advance width="319"/>
+  <unicode hex="0031"/>
+  <outline>
+    <contour>
+      <point x="129" y="0" type="line" name="hr00"/>
+      <point x="129" y="556" type="line"/>
+      <point x="23" y="501" type="line"/>
+      <point x="-20" y="581" type="line"/>
+      <point x="203" y="701" type="line"/>
+      <point x="257" y="701" type="line"/>
+      <point x="257" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjAiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9IjcwMSIgd2lkdGg9Ii0yMSIgLz4K
+ICAgICAgPHZzdGVtIHBvcz0iMTI5IiB3aWR0aD0i
+MTI4IiAvPgogICAgPC9oaW50c2V0PgogIDwvaGlu
+dFNldExpc3Q+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

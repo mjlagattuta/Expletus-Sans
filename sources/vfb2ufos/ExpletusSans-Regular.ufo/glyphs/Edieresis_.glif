@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edieresis" format="1">
+  <advance width="577"/>
+  <unicode hex="00CB"/>
+  <outline>
+    <contour>
+      <point x="89" y="727" type="line"/>
+      <point x="503" y="727" type="line"/>
+      <point x="503" y="655" type="line"/>
+      <point x="184" y="655" type="line"/>
+      <point x="184" y="72" type="line"/>
+      <point x="518" y="72" type="line"/>
+      <point x="518" y="0" type="line"/>
+      <point x="89" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="469" y="416" type="line"/>
+      <point x="469" y="346" type="line"/>
+      <point x="222" y="346" type="line"/>
+      <point x="236" y="384"/>
+      <point x="260" y="416"/>
+      <point x="308" y="416" type="curve"/>
+    </contour>
+    <contour>
+      <point x="151" y="840" type="curve" smooth="yes"/>
+      <point x="151" y="869"/>
+      <point x="175" y="892"/>
+      <point x="203" y="892" type="curve" smooth="yes"/>
+      <point x="232" y="892"/>
+      <point x="256" y="869"/>
+      <point x="256" y="840" type="curve" smooth="yes"/>
+      <point x="256" y="811"/>
+      <point x="232" y="788"/>
+      <point x="203" y="788" type="curve" smooth="yes"/>
+      <point x="175" y="788"/>
+      <point x="151" y="811"/>
+    </contour>
+    <contour>
+      <point x="345" y="840" type="curve" smooth="yes"/>
+      <point x="345" y="869"/>
+      <point x="369" y="892"/>
+      <point x="398" y="892" type="curve" smooth="yes"/>
+      <point x="426" y="892"/>
+      <point x="450" y="869"/>
+      <point x="450" y="840" type="curve" smooth="yes"/>
+      <point x="450" y="811"/>
+      <point x="426" y="788"/>
+      <point x="398" y="788" type="curve" smooth="yes"/>
+      <point x="369" y="788"/>
+      <point x="345" y="811"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjAiIHdpZHRoPSI3MiIgLz4KICAgICAgPGhz
+dGVtIHBvcz0iMzQ2IiB3aWR0aD0iNzAiIC8+CiAg
+ICAgIDxoc3RlbSBwb3M9IjY1NSIgd2lkdGg9Ijcy
+IiAvPgogICAgICA8aHN0ZW0gcG9zPSI3ODgiIHdp
+ZHRoPSIxMDQiIC8+CiAgICAgIDx2c3RlbSBwb3M9
+IjE1MSIgd2lkdGg9IjEwNSIgLz4KICAgICAgPHZz
+dGVtIHBvcz0iMzQ1IiB3aWR0aD0iMTA1IiAvPgog
+ICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+
+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

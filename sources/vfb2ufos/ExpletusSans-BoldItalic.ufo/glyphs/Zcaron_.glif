@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zcaron" format="1">
+  <advance width="598"/>
+  <unicode hex="017D"/>
+  <outline>
+    <contour>
+      <point x="193" y="727" type="line"/>
+      <point x="699" y="727" type="line"/>
+      <point x="692" y="668" type="line"/>
+      <point x="268" y="115" type="line"/>
+      <point x="250" y="100" type="line"/>
+      <point x="273" y="103" type="line"/>
+      <point x="631" y="103" type="line"/>
+      <point x="619" y="0" type="line"/>
+      <point x="73" y="0" type="line"/>
+      <point x="80" y="59" type="line"/>
+      <point x="503" y="612" type="line"/>
+      <point x="521" y="629" type="line"/>
+      <point x="496" y="626" type="line"/>
+      <point x="180" y="626" type="line"/>
+    </contour>
+    <contour>
+      <point x="405" y="761" type="line" name="hr01"/>
+      <point x="314" y="877" type="line"/>
+      <point x="396" y="895" type="line"/>
+      <point x="466" y="839" type="line"/>
+      <point x="550" y="895" type="line"/>
+      <point x="629" y="877" type="line"/>
+      <point x="508" y="761" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjAiIHdpZHRoPSIxMDMiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9IjcyNyIgd2lkdGg9IjM0IiAvPgog
+ICAgICA8aHN0ZW0gcG9zPSI4OTUiIHdpZHRoPSIt
+MjEiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50
+U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

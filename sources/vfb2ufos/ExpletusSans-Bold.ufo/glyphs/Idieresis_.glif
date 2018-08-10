@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="1">
+  <advance width="350"/>
+  <unicode hex="00CF"/>
+  <outline>
+    <contour>
+      <point x="243" y="0" type="line"/>
+      <point x="104" y="0" type="line"/>
+      <point x="104" y="727" type="line"/>
+      <point x="243" y="727" type="line"/>
+    </contour>
+    <contour>
+      <point x="12" y="840" type="curve" smooth="yes" name="hr01"/>
+      <point x="12" y="875"/>
+      <point x="41" y="903"/>
+      <point x="75" y="903" type="curve" smooth="yes"/>
+      <point x="110" y="903"/>
+      <point x="139" y="875"/>
+      <point x="139" y="840" type="curve" smooth="yes"/>
+      <point x="139" y="805"/>
+      <point x="110" y="777"/>
+      <point x="75" y="777" type="curve" smooth="yes"/>
+      <point x="41" y="777"/>
+      <point x="12" y="805"/>
+    </contour>
+    <contour>
+      <point x="207" y="840" type="curve" smooth="yes"/>
+      <point x="207" y="875"/>
+      <point x="236" y="903"/>
+      <point x="270" y="903" type="curve" smooth="yes"/>
+      <point x="305" y="903"/>
+      <point x="334" y="875"/>
+      <point x="334" y="840" type="curve" smooth="yes"/>
+      <point x="334" y="805"/>
+      <point x="305" y="777"/>
+      <point x="270" y="777" type="curve" smooth="yes"/>
+      <point x="236" y="777"/>
+      <point x="207" y="805"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjAiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9IjcyNyIgd2lkdGg9Ii0yMSIgLz4K
+ICAgICAgPGhzdGVtIHBvcz0iNzc3IiB3aWR0aD0i
+MTI2IiAvPgogICAgICA8dnN0ZW0gcG9zPSIxMiIg
+d2lkdGg9IjEyNyIgLz4KICAgICAgPHZzdGVtIHBv
+cz0iMjA3IiB3aWR0aD0iMTI3IiAvPgogICAgPC9o
+aW50c2V0PgogIDwvaGludFNldExpc3Q+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

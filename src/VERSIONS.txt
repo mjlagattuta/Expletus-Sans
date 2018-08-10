@@ -1,8 +1,0 @@
-ExpletusSans-Bold.ttf: Version 7.029
-ExpletusSans-BoldItalic.ttf: Version 7.029
-ExpletusSans-Italic.ttf: Version 7.028
-ExpletusSans-Medium.ttf: Version 1.002
-ExpletusSans-MediumItalic.ttf: Version 1.002
-ExpletusSans-Regular.ttf: Version 7.028
-ExpletusSans-SemiBold.ttf: Version 1.002
-ExpletusSans-SemiBoldItalic.ttf: Version 1.002

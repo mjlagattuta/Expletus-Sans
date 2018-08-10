@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="1">
+  <advance width="611"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="109" y="417" type="curve" name="hr00"/>
+      <point x="32" y="417" type="line"/>
+      <point x="32" y="506" type="line"/>
+      <point x="212" y="506" type="line"/>
+      <point x="196" y="460"/>
+      <point x="168" y="417"/>
+    </contour>
+    <contour>
+      <point x="564" y="417" type="line"/>
+      <point x="504" y="417" type="line" smooth="yes"/>
+      <point x="431" y="417"/>
+      <point x="403" y="454"/>
+      <point x="384" y="506" type="curve"/>
+      <point x="564" y="506" type="line"/>
+    </contour>
+    <contour>
+      <point x="109" y="161" type="curve"/>
+      <point x="32" y="161" type="line"/>
+      <point x="32" y="250" type="line"/>
+      <point x="212" y="250" type="line"/>
+      <point x="196" y="204"/>
+      <point x="168" y="161"/>
+    </contour>
+    <contour>
+      <point x="564" y="161" type="line"/>
+      <point x="487" y="161" type="line" smooth="yes"/>
+      <point x="428" y="161"/>
+      <point x="400" y="204"/>
+      <point x="384" y="250" type="curve"/>
+      <point x="564" y="250" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="697" type="line"/>
+      <point x="349" y="-30" type="line"/>
+      <point x="247" y="-30" type="line"/>
+      <point x="247" y="697" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii0zMCIgd2lkdGg9Ii0yMSIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iMTYxIiB3aWR0aD0iODkiIC8+
+CiAgICAgIDxoc3RlbSBwb3M9IjQxNyIgd2lkdGg9
+Ijg5IiAvPgogICAgICA8aHN0ZW0gcG9zPSI2OTci
+IHdpZHRoPSItMjEiIC8+CiAgICAgIDx2c3RlbSBw
+b3M9IjI0NyIgd2lkdGg9IjEwMiIgLz4KICAgIDwv
+aGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

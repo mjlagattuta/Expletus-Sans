@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="1">
+  <advance width="337"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="175" y="713" type="curve" name="hr00"/>
+      <point x="119" y="713"/>
+      <point x="92" y="665"/>
+      <point x="92" y="623" type="curve"/>
+      <point x="92" y="578"/>
+      <point x="119" y="533"/>
+      <point x="175" y="533" type="curve"/>
+      <point x="234" y="533"/>
+      <point x="259" y="587"/>
+      <point x="259" y="623" type="curve"/>
+      <point x="259" y="678"/>
+      <point x="218" y="713"/>
+    </contour>
+    <contour>
+      <point x="29" y="623" type="curve"/>
+      <point x="29" y="698"/>
+      <point x="92" y="763"/>
+      <point x="175" y="763" type="curve"/>
+      <point x="243" y="763"/>
+      <point x="321" y="714"/>
+      <point x="321" y="623" type="curve"/>
+      <point x="321" y="533"/>
+      <point x="243" y="483"/>
+      <point x="175" y="483" type="curve"/>
+      <point x="97" y="483"/>
+      <point x="29" y="542"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjQ4MyIgd2lkdGg9IjUwIiAvPgogICAgICA8
+aHN0ZW0gcG9zPSI3MTMiIHdpZHRoPSI1MCIgLz4K
+ICAgICAgPHZzdGVtIHBvcz0iMjkiIHdpZHRoPSI2
+MyIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjU5IiB3
+aWR0aD0iNjIiIC8+CiAgICA8L2hpbnRzZXQ+CiAg
+PC9oaW50U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

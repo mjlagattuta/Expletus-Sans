@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="1">
+  <advance width="791"/>
+  <unicode hex="00D8"/>
+  <outline>
+    <contour>
+      <point x="596" y="665" type="line"/>
+      <point x="671" y="600"/>
+      <point x="719" y="497"/>
+      <point x="719" y="364" type="curve" smooth="yes"/>
+      <point x="719" y="133"/>
+      <point x="563" y="-14"/>
+      <point x="382" y="-14" type="curve" smooth="yes" name="hr01"/>
+      <point x="325" y="-14"/>
+      <point x="272" y="-1"/>
+      <point x="225" y="24" type="curve"/>
+      <point x="176" y="-60" type="line"/>
+      <point x="97" y="-60" type="line"/>
+      <point x="169" y="62" type="line"/>
+      <point x="93" y="126"/>
+      <point x="45" y="230"/>
+      <point x="45" y="364" type="curve" smooth="yes"/>
+      <point x="45" y="595"/>
+      <point x="202" y="742"/>
+      <point x="382" y="742" type="curve" smooth="yes"/>
+      <point x="439" y="742"/>
+      <point x="492" y="729"/>
+      <point x="539" y="704" type="curve"/>
+      <point x="590" y="789" type="line"/>
+      <point x="669" y="789" type="line"/>
+    </contour>
+    <contour>
+      <point x="620" y="364" type="curve" smooth="yes"/>
+      <point x="620" y="457"/>
+      <point x="591" y="533"/>
+      <point x="549" y="586" type="curve"/>
+      <point x="281" y="133" type="line"/>
+      <point x="258" y="159"/>
+      <point x="242" y="202"/>
+      <point x="263" y="240" type="curve"/>
+      <point x="499" y="635" type="line"/>
+      <point x="465" y="658"/>
+      <point x="424" y="671"/>
+      <point x="382" y="671" type="curve" smooth="yes"/>
+      <point x="253" y="671"/>
+      <point x="144" y="552"/>
+      <point x="144" y="364" type="curve" smooth="yes"/>
+      <point x="144" y="174"/>
+      <point x="254" y="56"/>
+      <point x="382" y="56" type="curve" smooth="yes"/>
+      <point x="511" y="56"/>
+      <point x="620" y="174"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii0xNCIgd2lkdGg9IjcwIiAvPgogICAgICA8
+aHN0ZW0gcG9zPSI2NzEiIHdpZHRoPSI3MSIgLz4K
+ICAgICAgPGhzdGVtIHBvcz0iNzg5IiB3aWR0aD0i
+LTIxIiAvPgogICAgICA8dnN0ZW0gcG9zPSI0NSIg
+d2lkdGg9Ijk5IiAvPgogICAgICA8dnN0ZW0gcG9z
+PSI2MjAiIHdpZHRoPSI5OSIgLz4KICAgIDwvaGlu
+dHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

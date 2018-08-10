@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde" format="1">
+  <advance width="614"/>
+  <unicode hex="007E"/>
+  <outline>
+    <contour>
+      <point x="63" y="236" type="line"/>
+      <point x="67" y="336"/>
+      <point x="127" y="381"/>
+      <point x="213" y="382" type="curve" smooth="yes" name="hr02"/>
+      <point x="256" y="382"/>
+      <point x="296" y="362"/>
+      <point x="327" y="340" type="curve" smooth="yes"/>
+      <point x="358" y="318"/>
+      <point x="389" y="298"/>
+      <point x="434" y="298" type="curve" smooth="yes"/>
+      <point x="466" y="298"/>
+      <point x="484" y="334"/>
+      <point x="488" y="384" type="curve"/>
+      <point x="569" y="376" type="line"/>
+      <point x="562" y="263"/>
+      <point x="503" y="231"/>
+      <point x="423" y="230" type="curve" smooth="yes" name="hr01"/>
+      <point x="378" y="229"/>
+      <point x="337" y="250"/>
+      <point x="306" y="272" type="curve" smooth="yes"/>
+      <point x="273" y="294"/>
+      <point x="245" y="314"/>
+      <point x="204" y="314" type="curve" smooth="yes"/>
+      <point x="172" y="313"/>
+      <point x="147" y="284"/>
+      <point x="143" y="228" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>230</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjIzMCIgd2lkdGg9IjY4IiAvPgogICAgICA8
+aHN0ZW0gcG9zPSIzODQiIHdpZHRoPSItMjEiIC8+
+CiAgICAgIDx2c3RlbSBwb3M9IjYzIiB3aWR0aD0i
+ODAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjQ4OCIg
+d2lkdGg9IjgxIiAvPgogICAgPC9oaW50c2V0Pgog
+ICAgPGhpbnRzZXQgcG9pbnRUYWc9ImhyMDIiPgog
+ICAgICA8aHN0ZW0gcG9zPSIyMjgiIHdpZHRoPSIt
+MjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjMxNCIg
+d2lkdGg9IjY4IiAvPgogICAgICA8dnN0ZW0gcG9z
+PSI2MyIgd2lkdGg9IjgwIiAvPgogICAgICA8dnN0
+ZW0gcG9zPSI0ODgiIHdpZHRoPSI4MSIgLz4KICAg
+IDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

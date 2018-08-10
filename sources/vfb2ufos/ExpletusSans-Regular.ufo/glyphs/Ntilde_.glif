@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ntilde" format="1">
+  <advance width="749"/>
+  <unicode hex="00D1"/>
+  <outline>
+    <contour>
+      <point x="197" y="581" type="line"/>
+      <point x="183" y="615" type="line"/>
+      <point x="185" y="581" type="line"/>
+      <point x="185" y="0" type="line"/>
+      <point x="104" y="0" type="line"/>
+      <point x="104" y="727" type="line"/>
+      <point x="199" y="727" type="line"/>
+      <point x="552" y="163" type="line"/>
+      <point x="564" y="130" type="line"/>
+      <point x="562" y="165" type="line"/>
+      <point x="562" y="727" type="line"/>
+      <point x="646" y="727" type="line"/>
+      <point x="646" y="0" type="line"/>
+      <point x="561" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="783" type="line"/>
+      <point x="235" y="858"/>
+      <point x="274" y="890"/>
+      <point x="322" y="891" type="curve" smooth="yes" name="hr01"/>
+      <point x="346" y="891"/>
+      <point x="368" y="883"/>
+      <point x="386" y="867" type="curve" smooth="yes"/>
+      <point x="404" y="851"/>
+      <point x="414" y="835"/>
+      <point x="440" y="835" type="curve" smooth="yes"/>
+      <point x="458" y="835"/>
+      <point x="468" y="856"/>
+      <point x="471" y="893" type="curve"/>
+      <point x="524" y="887" type="line"/>
+      <point x="520" y="803"/>
+      <point x="478" y="779"/>
+      <point x="440" y="779" type="curve" smooth="yes"/>
+      <point x="414" y="779"/>
+      <point x="392" y="786"/>
+      <point x="375" y="802" type="curve" smooth="yes"/>
+      <point x="356" y="818"/>
+      <point x="346" y="835"/>
+      <point x="323" y="835" type="curve" smooth="yes"/>
+      <point x="306" y="835"/>
+      <point x="291" y="819"/>
+      <point x="288" y="777" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>579</real>
+    </dict>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>148</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjAiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9IjcyNyIgd2lkdGg9Ii0yMSIgLz4K
+ICAgICAgPGhzdGVtIHBvcz0iODM1IiB3aWR0aD0i
+NTYiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjEwNCIg
+d2lkdGg9IjgxIiAvPgogICAgICA8dnN0ZW0gcG9z
+PSI1NjIiIHdpZHRoPSI4NCIgLz4KICAgIDwvaGlu
+dHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

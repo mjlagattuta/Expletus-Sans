@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icircumflex" format="1">
+  <advance width="321"/>
+  <unicode hex="00CE"/>
+  <outline>
+    <contour>
+      <point x="205" y="0" type="line" name="hr00"/>
+      <point x="113" y="0" type="line"/>
+      <point x="113" y="727" type="line"/>
+      <point x="205" y="727" type="line"/>
+    </contour>
+    <contour>
+      <point x="188" y="890" type="line"/>
+      <point x="299" y="770" type="line"/>
+      <point x="247" y="762" type="line"/>
+      <point x="159" y="821" type="line"/>
+      <point x="71" y="761" type="line"/>
+      <point x="22" y="770" type="line"/>
+      <point x="131" y="890" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjAiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9IjcyNyIgd2lkdGg9Ii0yMSIgLz4K
+ICAgICAgPGhzdGVtIHBvcz0iODkwIiB3aWR0aD0i
+LTIxIiAvPgogICAgICA8dnN0ZW0gcG9zPSIxMTMi
+IHdpZHRoPSI5MiIgLz4KICAgIDwvaGludHNldD4K
+ICA8L2hpbnRTZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

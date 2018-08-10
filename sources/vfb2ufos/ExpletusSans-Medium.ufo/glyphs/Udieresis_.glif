@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis" format="1">
+  <advance width="694"/>
+  <unicode hex="00DC"/>
+  <outline>
+    <contour>
+      <point x="389" y="840" type="curve" smooth="yes" name="hr00"/>
+      <point x="389" y="871"/>
+      <point x="415" y="895"/>
+      <point x="445" y="895" type="curve" smooth="yes"/>
+      <point x="475" y="895"/>
+      <point x="500" y="871"/>
+      <point x="500" y="840" type="curve" smooth="yes"/>
+      <point x="500" y="809"/>
+      <point x="475" y="785"/>
+      <point x="445" y="785" type="curve" smooth="yes"/>
+      <point x="415" y="785"/>
+      <point x="389" y="809"/>
+    </contour>
+    <contour>
+      <point x="195" y="840" type="curve" smooth="yes"/>
+      <point x="195" y="871"/>
+      <point x="220" y="895"/>
+      <point x="250" y="895" type="curve" smooth="yes"/>
+      <point x="281" y="895"/>
+      <point x="306" y="871"/>
+      <point x="306" y="840" type="curve" smooth="yes"/>
+      <point x="306" y="809"/>
+      <point x="281" y="785"/>
+      <point x="250" y="785" type="curve" smooth="yes"/>
+      <point x="220" y="785"/>
+      <point x="195" y="809"/>
+    </contour>
+    <contour>
+      <point x="347" y="-14" type="curve" smooth="yes"/>
+      <point x="174" y="-14"/>
+      <point x="71" y="96"/>
+      <point x="71" y="271" type="curve" smooth="yes"/>
+      <point x="71" y="727" type="line"/>
+      <point x="179" y="727" type="line"/>
+      <point x="179" y="255" type="line" smooth="yes"/>
+      <point x="179" y="140"/>
+      <point x="247" y="67"/>
+      <point x="347" y="67" type="curve" smooth="yes"/>
+      <point x="447" y="67"/>
+      <point x="514" y="140"/>
+      <point x="514" y="255" type="curve" smooth="yes"/>
+      <point x="514" y="727" type="line"/>
+      <point x="622" y="727" type="line"/>
+      <point x="622" y="271" type="line" smooth="yes"/>
+      <point x="622" y="100"/>
+      <point x="512" y="-14"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii0xNCIgd2lkdGg9IjgxIiAvPgogICAgICA8
+aHN0ZW0gcG9zPSI3MjciIHdpZHRoPSItMjEiIC8+
+CiAgICAgIDxoc3RlbSBwb3M9Ijc4NSIgd2lkdGg9
+IjExMCIgLz4KICAgICAgPHZzdGVtIHBvcz0iNzEi
+IHdpZHRoPSIxMDgiIC8+CiAgICAgIDx2c3RlbSBw
+b3M9IjE5NSIgd2lkdGg9IjExMSIgLz4KICAgICAg
+PHZzdGVtIHBvcz0iMzg5IiB3aWR0aD0iMTExIiAv
+PgogICAgICA8dnN0ZW0gcG9zPSI1MTQiIHdpZHRo
+PSIxMDgiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9o
+aW50U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="B" format="1">
+  <advance width="677"/>
+  <unicode hex="0042"/>
+  <outline>
+    <contour>
+      <point x="311" y="428" type="line"/>
+      <point x="380" y="428"/>
+      <point x="443" y="471"/>
+      <point x="443" y="534" type="curve" smooth="yes"/>
+      <point x="443" y="581"/>
+      <point x="406" y="639"/>
+      <point x="311" y="639" type="curve" smooth="yes"/>
+      <point x="275" y="639"/>
+      <point x="257" y="637"/>
+      <point x="221" y="632" type="curve"/>
+      <point x="221" y="428" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="90" type="curve" smooth="yes"/>
+      <point x="431" y="90"/>
+      <point x="483" y="132"/>
+      <point x="483" y="206" type="curve" smooth="yes" name="hr01"/>
+      <point x="483" y="285"/>
+      <point x="410" y="334"/>
+      <point x="311" y="334" type="curve" smooth="yes"/>
+      <point x="221" y="334" type="line"/>
+      <point x="221" y="0" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="81" y="716" type="line"/>
+      <point x="188" y="734"/>
+      <point x="239" y="740"/>
+      <point x="311" y="740" type="curve" smooth="yes"/>
+      <point x="491" y="740"/>
+      <point x="587" y="658"/>
+      <point x="587" y="535" type="curve" name="hr02"/>
+      <point x="587" y="486"/>
+      <point x="553" y="433"/>
+      <point x="504" y="402" type="curve"/>
+      <point x="475" y="388" type="line"/>
+      <point x="503" y="381" type="line"/>
+      <point x="576" y="355"/>
+      <point x="630" y="277"/>
+      <point x="630" y="205" type="curve" smooth="yes" name="hr03"/>
+      <point x="630" y="102"/>
+      <point x="533" y="-11"/>
+      <point x="376" y="-11" type="curve" smooth="yes"/>
+      <point x="339" y="-11"/>
+      <point x="318" y="-8"/>
+      <point x="260" y="6" type="curve"/>
+      <point x="276" y="41"/>
+      <point x="306" y="90"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjAiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9IjMzNCIgd2lkdGg9Ijk0IiAvPgog
+ICAgICA8aHN0ZW0gcG9zPSI2MzkiIHdpZHRoPSIx
+MDEiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjgxIiB3
+aWR0aD0iMTQwIiAvPgogICAgICA8dnN0ZW0gcG9z
+PSI0ODMiIHdpZHRoPSIxNDciIC8+CiAgICA8L2hp
+bnRzZXQ+CiAgICA8aGludHNldCBwb2ludFRhZz0i
+aHIwMiI+CiAgICAgIDxoc3RlbSBwb3M9Ii0xMSIg
+d2lkdGg9IjEwMSIgLz4KICAgICAgPGhzdGVtIHBv
+cz0iMzM0IiB3aWR0aD0iOTQiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9IjYzOSIgd2lkdGg9IjEwMSIgLz4K
+ICAgICAgPHZzdGVtIHBvcz0iODEiIHdpZHRoPSIx
+NDAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjQ0MyIg
+d2lkdGg9IjE0NCIgLz4KICAgIDwvaGludHNldD4K
+ICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjAzIj4K
+ICAgICAgPGhzdGVtIHBvcz0iLTExIiB3aWR0aD0i
+MTAxIiAvPgogICAgICA8aHN0ZW0gcG9zPSIzMzQi
+IHdpZHRoPSI5NCIgLz4KICAgICAgPGhzdGVtIHBv
+cz0iNjM5IiB3aWR0aD0iMTAxIiAvPgogICAgICA8
+dnN0ZW0gcG9zPSI4MSIgd2lkdGg9IjE0MCIgLz4K
+ICAgICAgPHZzdGVtIHBvcz0iNDgzIiB3aWR0aD0i
+MTQ3IiAvPgogICAgPC9oaW50c2V0PgogIDwvaGlu
+dFNldExpc3Q+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>
