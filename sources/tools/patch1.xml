@@ -1,0 +1,129 @@
+  <STAT>
+    <Version value="0x00010001"/>
+    <DesignAxisRecordSize value="8"/>
+    <!-- DesignAxisCount=2 -->
+    <DesignAxisRecord>
+      <Axis index="0">
+        <AxisTag value="wght"/>
+        <AxisNameID value="256"/>  <!-- Weight -->
+        <AxisOrdering value="0"/>
+      </Axis>
+      <Axis index="1">
+        <AxisTag value="slnt"/>
+        <AxisNameID value="257"/>  <!-- Slant -->
+        <AxisOrdering value="1"/>
+      </Axis>
+    </DesignAxisRecord>
+    <!-- AxisValueCount=4 -->
+    <AxisValueArray>
+      <AxisValue index="0" Format="1">
+        <AxisIndex value="0"/>
+        <Flags value="0"/>
+        <ValueNameID value="258"/>  <!-- Regular -->
+        <Value value="400.0"/>
+      </AxisValue>
+      <AxisValue index="1" Format="1">
+        <AxisIndex value="0"/>
+        <Flags value="0"/>
+        <ValueNameID value="259"/>  <!-- Medium -->
+        <Value value="500.0"/>
+      </AxisValue>
+      <AxisValue index="2" Format="1">
+        <AxisIndex value="0"/>
+        <Flags value="0"/>
+        <ValueNameID value="260"/>  <!-- SemiBold -->
+        <Value value="600.0"/>
+      </AxisValue>
+      <AxisValue index="3" Format="1">
+        <AxisIndex value="0"/>
+        <Flags value="0"/>
+        <ValueNameID value="261"/>  <!-- Bold -->
+        <Value value="700.0"/>
+      </AxisValue>
+    </AxisValueArray>
+    <ElidedFallbackNameID value="258"/>  <!-- Regular -->
+  </STAT>
+
+<avar>
+  <segment axis="wght">
+    <mapping from="0.000000" to="0.000000" />
+    <mapping from="0.333333" to="0.272727" />
+    <mapping from="0.666667" to="0.613636" />
+    <mapping from="1.000000" to="1.000000" />
+  </segment>
+  <segment axis="slnt">
+    <mapping from="0.000000" to="0.000000" />
+    <mapping from="1.000000" to="1.000000" />
+  </segment>
+</avar>
+
+  <fvar>
+
+    <!-- Weight -->
+    <Axis>
+      <AxisTag>wght</AxisTag>
+      <Flags>0x0</Flags>
+      <MinValue>400.0</MinValue>
+      <DefaultValue>400.0</DefaultValue>
+      <MaxValue>700.0</MaxValue>
+      <AxisNameID>256</AxisNameID>
+    </Axis>
+
+    <!-- Slant -->
+    <Axis>
+      <AxisTag>slnt</AxisTag>
+      <Flags>0x0</Flags>
+      <MinValue>0.0</MinValue>
+      <DefaultValue>0.0</DefaultValue>
+      <MaxValue>7.0</MaxValue>
+      <AxisNameID>257</AxisNameID>
+    </Axis>
+
+    <!-- Regular -->
+    <NamedInstance flags="0x0" subfamilyNameID="258">
+      <coord axis="wght" value="400.0"/>
+      <coord axis="slnt" value="0.0"/>
+    </NamedInstance>
+
+    <!-- Medium -->
+    <NamedInstance flags="0x0" subfamilyNameID="259">
+      <coord axis="wght" value="500.0"/>
+      <coord axis="slnt" value="0.0"/>
+    </NamedInstance>
+
+    <!-- SemiBold -->
+    <NamedInstance flags="0x0" subfamilyNameID="260">
+      <coord axis="wght" value="600.0"/>
+      <coord axis="slnt" value="0.0"/>
+    </NamedInstance>
+
+    <!-- Bold -->
+    <NamedInstance flags="0x0" subfamilyNameID="261">
+      <coord axis="wght" value="700.0"/>
+      <coord axis="slnt" value="0.0"/>
+    </NamedInstance>
+
+    <!-- Regular Italic -->
+    <NamedInstance flags="0x0" subfamilyNameID="262">
+      <coord axis="wght" value="400.0"/>
+      <coord axis="slnt" value="7.0"/>
+    </NamedInstance>
+
+    <!-- Medium Italic -->
+    <NamedInstance flags="0x0" subfamilyNameID="263">
+      <coord axis="wght" value="500.0"/>
+      <coord axis="slnt" value="7.0"/>
+    </NamedInstance>
+
+    <!-- SemiBold Italic -->
+    <NamedInstance flags="0x0" subfamilyNameID="264">
+      <coord axis="wght" value="600.0"/>
+      <coord axis="slnt" value="7.0"/>
+    </NamedInstance>
+
+    <!-- Bold Italic -->
+    <NamedInstance flags="0x0" subfamilyNameID="265">
+      <coord axis="wght" value="700.0"/>
+      <coord axis="slnt" value="7.0"/>
+    </NamedInstance>
+  </fvar>
