@@ -2,8 +2,7 @@
 .appVersion = "1141";
 DisplayStrings = (
 "aáâäàåã",
-"Expletus Sans\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmnopqrstuvwxyz\0120123456789 &",
-"AÁÂÄÀÅÃÆBCÇDÐEÉÊËÈFGHIÍÎÏÌJKLMNÑOÓÔÖÒØÕ/OE PÞQRS/Scaron TUÚÛÜÙVWXYÝ/Ydieresis Z/Zcaron aáâäàåãæbcçdðeéêëèfghi/idotless íîïìjklmnñoóôöòøõ/oe pþqrs/scaron ßtuúûüùvwxyý/ydieresis z/zcaron ªº0123456789¹²³½¼¾.,:;/ellipsis !¡?¿·/bullet *#///backslash (){}[]-­/endash/emdash _/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'  \015/.notdef ¢¤$/euro/florin £¥+×÷=><±¬~^µ%/perthousand @&¶§©®/trademark °|¦/dagger/daggerdbl/dieresiscomb/dotaccentcomb/gravecomb/acutecomb/circumflexcomb/caroncomb/ringcomb/tildecomb/macroncomb/cedillacomb/strokeshortcomb/slashlongcomb ´/caron ¸/circumflex ¨/dotaccent `¯/ring/tilde/dieresiscomb.case/dotaccentcomb.case/gravecomb.case/acutecomb.case/circumflexcomb.case/caroncomb.case/ringcomb.case/tildecomb.case/macroncomb.case/slashlongcomb.case"
+"Expletus Sans\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmnopqrstuvwxyz\0120123456789 &"
 );
 classes = (
 {
@@ -29240,6 +29239,52 @@ width = 430;
 unicode = 00BA;
 },
 {
+glyphname = mu;
+layers = (
+{
+components = (
+{
+name = micro;
+transform = "{1, 0, 0, 1, -1, 0}";
+}
+);
+layerId = "BAA2CE79-BA31-4701-835E-3D9478C3F4B2";
+width = 553;
+},
+{
+components = (
+{
+name = micro;
+transform = "{1, 0, 0, 1, -1, 0}";
+}
+);
+layerId = "3BBF7C5C-CA4C-45AB-AE18-0528A0ACCA90";
+width = 600;
+},
+{
+components = (
+{
+name = micro;
+transform = "{1, 0, 0, 1, -1, 0}";
+}
+);
+layerId = "58254875-FB9E-4C1D-8B15-704836B9A7CF";
+width = 600;
+},
+{
+components = (
+{
+name = micro;
+transform = "{1, 0, 0, 1, -1, 0}";
+}
+);
+layerId = "5E1C92F4-866D-4CC0-BA00-538F5374015A";
+width = 600;
+}
+);
+unicode = 03BC;
+},
+{
 glyphname = zero;
 layers = (
 {
@@ -43306,7 +43351,7 @@ width = 628;
 unicode = 005E;
 },
 {
-glyphname = mu;
+glyphname = micro;
 layers = (
 {
 hints = (
@@ -52462,32 +52507,6 @@ instanceInterpolations = {
 name = Regular;
 },
 {
-interpolationWeight = 96;
-interpolationWidth = 2;
-instanceInterpolations = {
-"3BBF7C5C-CA4C-45AB-AE18-0528A0ACCA90" = 0.28571;
-"BAA2CE79-BA31-4701-835E-3D9478C3F4B2" = 0.71429;
-};
-name = Regular;
-},
-{
-interpolationWeight = 96;
-interpolationWidth = 4;
-instanceInterpolations = {
-"3BBF7C5C-CA4C-45AB-AE18-0528A0ACCA90" = 0.57143;
-"BAA2CE79-BA31-4701-835E-3D9478C3F4B2" = 0.42857;
-};
-name = Regular;
-},
-{
-interpolationWeight = 96;
-interpolationWidth = 7;
-instanceInterpolations = {
-"3BBF7C5C-CA4C-45AB-AE18-0528A0ACCA90" = 1;
-};
-name = Regular;
-},
-{
 interpolationWeight = 108;
 interpolationWidth = 0;
 instanceInterpolations = {
@@ -52518,26 +52537,37 @@ name = Bold;
 weightClass = Bold;
 },
 {
-interpolationWeight = 140;
-interpolationWidth = 2;
+interpolationWeight = 96;
+interpolationWidth = 7;
 instanceInterpolations = {
-"58254875-FB9E-4C1D-8B15-704836B9A7CF" = 0.71429;
-"5E1C92F4-866D-4CC0-BA00-538F5374015A" = 0.28571;
+"3BBF7C5C-CA4C-45AB-AE18-0528A0ACCA90" = 1;
 };
 isItalic = 1;
 name = Italic;
 },
 {
-interpolationWeight = 140;
-interpolationWidth = 4;
+interpolationWeight = 108;
+interpolationWidth = 7;
 instanceInterpolations = {
-"58254875-FB9E-4C1D-8B15-704836B9A7CF" = 0.42857;
-"5E1C92F4-866D-4CC0-BA00-538F5374015A" = 0.57143;
+"3BBF7C5C-CA4C-45AB-AE18-0528A0ACCA90" = 0.72727;
+"5E1C92F4-866D-4CC0-BA00-538F5374015A" = 0.27273;
 };
 isItalic = 1;
 linkStyle = Medium;
 name = "Medium Italic";
 weightClass = Medium;
+},
+{
+interpolationWeight = 123;
+interpolationWidth = 7;
+instanceInterpolations = {
+"3BBF7C5C-CA4C-45AB-AE18-0528A0ACCA90" = 0.38636;
+"5E1C92F4-866D-4CC0-BA00-538F5374015A" = 0.61364;
+};
+isItalic = 1;
+linkStyle = SemiBold;
+name = "SemiBold Italic";
+weightClass = SemiBold;
 },
 {
 interpolationWeight = 140;
@@ -52546,8 +52576,8 @@ instanceInterpolations = {
 "5E1C92F4-866D-4CC0-BA00-538F5374015A" = 1;
 };
 isItalic = 1;
-linkStyle = SemiBold;
-name = "SemiBold Italic";
+linkStyle = Bold;
+name = "Bold Italic";
 weightClass = SemiBold;
 }
 );
