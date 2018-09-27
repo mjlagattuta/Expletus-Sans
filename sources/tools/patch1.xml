@@ -40,6 +40,13 @@
         <ValueNameID value="261"/>  <!-- Bold -->
         <Value value="700.0"/>
       </AxisValue>
+      <AxisValue index="4" Format="3">
+        <AxisIndex value="1"/>
+        <Flags value="0"/>
+        <ValueNameID value="262"/>  <!-- Italic -->
+        <Value value="7.0"/>
+        <LinkedValue value="0.0"/>
+      </AxisValue>
     </AxisValueArray>
     <ElidedFallbackNameID value="258"/>  <!-- Regular -->
   </STAT>
