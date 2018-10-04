@@ -14,7 +14,7 @@
         <AxisOrdering value="1"/>
       </Axis>
     </DesignAxisRecord>
-    <!-- AxisValueCount=4 -->
+    <!-- AxisValueCount=5 -->
     <AxisValueArray>
       <AxisValue index="0" Format="1">
         <AxisIndex value="0"/>
@@ -40,7 +40,14 @@
         <ValueNameID value="261"/>  <!-- Bold -->
         <Value value="700.0"/>
       </AxisValue>
-      <AxisValue index="4" Format="3">
+      <AxisValue index="5" Format="3">
+        <AxisIndex value="1"/>
+        <Flags value="2"/>
+        <ValueNameID value="258"/>  <!-- Regular -->
+        <Value value="0.0"/>
+        <LinkedValue value="7.0"/>
+      </AxisValue>
+      <AxisValue index="6" Format="3">
         <AxisIndex value="1"/>
         <Flags value="0"/>
         <ValueNameID value="262"/>  <!-- Italic -->
@@ -48,21 +55,23 @@
         <LinkedValue value="0.0"/>
       </AxisValue>
     </AxisValueArray>
-    <ElidedFallbackNameID value="258"/>  <!-- Regular -->
+    <ElidedFallbackNameID value="2"/>  <!-- Regular -->
   </STAT>
 
-<avar>
-  <segment axis="wght">
-    <mapping from="0.000000" to="0.000000" />
-    <mapping from="0.333333" to="0.272727" />
-    <mapping from="0.666667" to="0.613636" />
-    <mapping from="1.000000" to="1.000000" />
-  </segment>
-  <segment axis="slnt">
-    <mapping from="0.000000" to="0.000000" />
-    <mapping from="1.000000" to="1.000000" />
-  </segment>
-</avar>
+  <avar>
+    <segment axis="wght">
+      <mapping from="-1.0" to="-1.0"/>
+      <mapping from="0.0" to="0.0"/>
+      <mapping from="0.3333" to="0.2727"/>
+      <mapping from="0.6667" to="0.61365"/>
+      <mapping from="1.0" to="1.0"/>
+    </segment>
+    <segment axis="slnt">
+      <mapping from="-1.0" to="-1.0"/>
+      <mapping from="0.0" to="0.0"/>
+      <mapping from="1.0" to="1.0"/>
+    </segment>
+  </avar>
 
   <fvar>
 

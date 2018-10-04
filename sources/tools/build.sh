@@ -28,3 +28,5 @@ rm -rf ExpletusSans-VF-Patch1.ttx
 ttx ExpletusSansBeta-VF.ttx
 
 rm -rf ExpletusSansBeta-VF.ttx
+
+mv ExpletusSansBeta-VF.ttf ../fonts/variable/ExpletusSansBeta-VF.ttf
