@@ -3,12 +3,15 @@ cp ExpletusSans.glyphs ExpletusSansBuild.glyphs
 # Add bracket layers to build version
 python2 tools/fixBrackets.py ExpletusSansBuild.glyphs
 
-# Export the variable font from Glyphs App (Requires Glyphs App to be running)
-python2 tools/exportVF.py ExpletusSansBuild.glyphs
+fontmake -o variable -g ExpletusSansBuild.glyphs
+
+mv variable_ttf/ExpletusSans-VF.ttf ExpletusSans-VF.ttf
 
 rm -rf ExpletusSansBuild.glyphs
+rm -rf master_ufo
+rm -rf variable_ttf
 
-mv ExpletusSansGX.ttf ExpletusSans-VF.ttf
+python2 tools/addItalics.py ExpletusSans-VF.ttf
 
 gftools fix-nonhinting ExpletusSans-VF.ttf ExpletusSans-VF.ttf
 gftools fix-dsig --autofix ExpletusSans-VF.ttf
@@ -19,14 +22,12 @@ ttx ExpletusSans-VF.ttf
 rm -rf ExpletusSans-VF.ttf
 rm -rf ExpletusSans-VF-backup-fonttools-prep-gasp.ttf
 
-cat ExpletusSans-VF.ttx | tr '\n' '\r' | sed -e "s,<STAT>.*<\/fvar>,$(cat tools/patch1.xml | tr '\n' '\r')," | tr '\r' '\n' > ExpletusSans-VF-Patch1.ttx
+cat ExpletusSans-VF.ttx | tr '\n' '\r' | sed -e "s,<STAT>.*<\/STAT>,$(cat tools/patch1.xml | tr '\n' '\r')," | tr '\r' '\n' > ExpletusSans-VF-STAT.ttx
+
 rm -rf ExpletusSans-VF.ttx
 
-cat ExpletusSans-VF-Patch1.ttx | tr '\n' '\r' | sed -e "s,<FeatureVariations>.*<\/FeatureVariations>,$(cat tools/patch2.xml | tr '\n' '\r')," | tr '\r' '\n' > ExpletusSansBeta-VF.ttx
-rm -rf ExpletusSans-VF-Patch1.ttx
+ttx ExpletusSans-VF-STAT.ttx
 
-ttx ExpletusSansBeta-VF.ttx
+rm -rf ExpletusSans-VF-STAT.ttx
 
-rm -rf ExpletusSansBeta-VF.ttx
-
-mv ExpletusSansBeta-VF.ttf ../fonts/variable/ExpletusSansBeta-VF.ttf
+mv ExpletusSans-VF-STAT.ttf ExpletusSansBeta-VF.ttf
