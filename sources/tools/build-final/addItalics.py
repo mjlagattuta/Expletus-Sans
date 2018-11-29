@@ -10,13 +10,13 @@ f = TTFont(fontPath)
 
 condSubst = [
     # A list of (Region, Substitution) tuples.
-    ([{"slnt": (0.5, 1.0)}], {"a": "a.ital"}),
-    ([{"slnt": (0.5, 1.0)}], {"aacute": "aacute.ital"}),
-    ([{"slnt": (0.5, 1.0)}], {"acircumflex": "acircumflex.ital"}),
-    ([{"slnt": (0.5, 1.0)}], {"agrave": "agrave.ital"}),
-    ([{"slnt": (0.5, 1.0)}], {"adieresis": "adieresis.ital"}),
-    ([{"slnt": (0.5, 1.0)}], {"aring": "aring.ital"}),
-    ([{"slnt": (0.5, 1.0)}], {"atilde": "atilde.ital"}),
+    ([{"ital": (0.5, 1.0)}], {"a": "a.ital"}),
+    ([{"ital": (0.5, 1.0)}], {"aacute": "aacute.ital"}),
+    ([{"ital": (0.5, 1.0)}], {"acircumflex": "acircumflex.ital"}),
+    ([{"ital": (0.5, 1.0)}], {"agrave": "agrave.ital"}),
+    ([{"ital": (0.5, 1.0)}], {"adieresis": "adieresis.ital"}),
+    ([{"ital": (0.5, 1.0)}], {"aring": "aring.ital"}),
+    ([{"ital": (0.5, 1.0)}], {"atilde": "atilde.ital"}),
 ]
 
 addFeatureVariations(f, condSubst)

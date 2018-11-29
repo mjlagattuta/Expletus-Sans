@@ -13,18 +13,15 @@ font = GSFont(filename)
 needsDup = []
 logged = {}
 
+
 def getBracketGlyphs():
     newAddition = False
     for glyph in font.glyphs:
-        try:
-            if logged[glyph.name] == True:
-                pass
-        except:
+        if logged.get(glyph.name) == None:
             for layer in glyph.layers:
-                try:
-                    if logged[glyph.name] == True:
-                        break
-                except:
+                if logged.get(glyph.name) != None:
+                    break
+                else:
                     if re.match('.*\d\]$', layer.name) != None:
                         needsDup.append(glyph.name)
                         logged.update({glyph.name: True})
@@ -32,23 +29,24 @@ def getBracketGlyphs():
                         break
                     else:
                         for component in layer.components:
-                            try:
-                                if logged[component.name] == True:
-                                    needsDup.append(glyph.name)
-                                    logged.update({glyph.name: True})
-                                    newAddition = True
-                                    break
-                            except:
+                            if logged.get(component.name) == None:
                                 pass
+                            else:
+                                needsDup.append(glyph.name)
+                                logged.update({glyph.name: True})
+                                newAddition = True
+                                break
+        else:
+            pass
     if newAddition == True:
         getBracketGlyphs()
         
-    print needsDup, len(needsDup)
             
 # Recursively goes through all glyphs and determines if they will need a duplicate glyph
-getBracketGlyphs()      
+getBracketGlyphs()
 
-
+print "Added %s glyphs for GSUB rvrn feature:" % str(len(needsDup))
+print re.sub( '[\[\]]', '', re.sub('[\[|, ]u\'', '\'', str(needsDup)))      
 
 for i in range(len(needsDup)):
     dupGlyph = copy.deepcopy(font.glyphs[needsDup[i]])
@@ -72,11 +70,10 @@ for i in range(len(needsDup)):
             delLayer.append(layer.layerId)
         else:
             for component in layer.components:
-                try:
-                    if logged[component.name] == True:
-                        component.name = component.name + ".ital"
-                except:
+                if logged.get(component.name) == None:
                     pass
+                else:
+                    component.name = component.name + ".ital"
                     
     for layerId in delLayer:
         del font.glyphs[dupGlyph.name].layers[layerId]
