@@ -26,10 +26,6 @@ name = openTypeNameSampleText;
 value = "";
 },
 {
-name = openTypeNameVersion;
-value = "Version 7.028";
-},
-{
 name = openTypeOS2FamilyClass;
 value = (
 0,
@@ -156,10 +152,10 @@ value = 1;
 },
 {
 name = "Use Line Breaks";
-value = 1;
+value = 0;
 }
 );
-date = "2018-09-27 16:23:24 +0000";
+date = "2018-12-14 04:20:38 +0000";
 designer = "Jasper de Waard";
 designerURL = "http://www.designtown.nl";
 disablesNiceNames = 1;
@@ -167,78 +163,39 @@ familyName = "Expletus Sans";
 featurePrefixes = (
 {
 automatic = 1;
-code = "languagesystem DFLT dflt;
-";
+code = "languagesystem DFLT dflt;\012";
 name = Languagesystems;
 }
 );
 features = (
 {
 automatic = 1;
-code = "feature ccmp;
-feature sups;
-feature frac;
-feature ordn;
-feature case;
-";
+code = "feature ccmp;\012feature sups;\012feature frac;\012feature ordn;\012feature case;\012";
 name = aalt;
 },
 {
 automatic = 1;
-code = "lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb macroncomb ringcomb tildecomb];
-	@CombiningNonTopAccents = [cedillacomb slashlongcomb strokeshortcomb];
-	sub [i]' @CombiningTopAccents by [idotless];
-	sub [i]' @CombiningNonTopAccents @CombiningTopAccents by [idotless];
-	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb caroncomb ringcomb tildecomb macroncomb slashlongcomb];
-	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case circumflexcomb.case caroncomb.case ringcomb.case tildecomb.case macroncomb.case slashlongcomb.case];
-	sub @Markscomb @Markscomb' by @MarkscombCase;
-	sub @Uppercase @Markscomb' by @MarkscombCase;
-} ccmp_Other_1;
-
-lookup ccmp_Other_2 {
-	sub @Markscomb' @MarkscombCase by @MarkscombCase;
-	sub @MarkscombCase @Markscomb' by @MarkscombCase;
-} ccmp_Other_2;
-";
+code = "lookup ccmp_Other_1 {\012	@CombiningTopAccents = [acutecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb macroncomb ringcomb tildecomb];\012	@CombiningNonTopAccents = [cedillacomb slashlongcomb strokeshortcomb];\012	sub [i]' @CombiningTopAccents by [idotless];\012	sub [i]' @CombiningNonTopAccents @CombiningTopAccents by [idotless];\012	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb caroncomb ringcomb tildecomb macroncomb slashlongcomb];\012	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case circumflexcomb.case caroncomb.case ringcomb.case tildecomb.case macroncomb.case slashlongcomb.case];\012	sub @Markscomb @Markscomb' by @MarkscombCase;\012	sub @Uppercase @Markscomb' by @MarkscombCase;\012} ccmp_Other_1;\012\012lookup ccmp_Other_2 {\012	sub @Markscomb' @MarkscombCase by @MarkscombCase;\012	sub @MarkscombCase @Markscomb' by @MarkscombCase;\012} ccmp_Other_2;\012";
 name = ccmp;
 },
 {
 automatic = 1;
-code = "sub one by onesuperior;
-sub two by twosuperior;
-sub three by threesuperior;
-";
+code = "sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012";
 name = sups;
 },
 {
 automatic = 1;
-code = "sub one slash four by onequarter;
-sub one slash two by onehalf;
-sub three slash four by threequarters;
-";
+code = "sub one slash four by onequarter;\012sub one slash two by onehalf;\012sub three slash four by threequarters;\012";
 name = frac;
 },
 {
 automatic = 1;
-code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
-sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
-";
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012";
 name = ordn;
 },
 {
 automatic = 1;
-code = "sub dieresiscomb by dieresiscomb.case;
-sub dotaccentcomb by dotaccentcomb.case;
-sub gravecomb by gravecomb.case;
-sub acutecomb by acutecomb.case;
-sub circumflexcomb by circumflexcomb.case;
-sub caroncomb by caroncomb.case;
-sub ringcomb by ringcomb.case;
-sub tildecomb by tildecomb.case;
-sub macroncomb by macroncomb.case;
-sub slashlongcomb by slashlongcomb.case;
-";
+code = "sub dieresiscomb by dieresiscomb.case;\012sub dotaccentcomb by dotaccentcomb.case;\012sub gravecomb by gravecomb.case;\012sub acutecomb by acutecomb.case;\012sub circumflexcomb by circumflexcomb.case;\012sub caroncomb by caroncomb.case;\012sub ringcomb by ringcomb.case;\012sub tildecomb by tildecomb.case;\012sub macroncomb by macroncomb.case;\012sub slashlongcomb by slashlongcomb.case;\012";
 name = case;
 }
 );
@@ -255,27 +212,27 @@ capHeight = 727;
 customParameters = (
 {
 name = typoAscender;
-value = 900;
+value = 893;
 },
 {
 name = typoDescender;
-value = -400;
+value = -293;
 },
 {
 name = typoLineGap;
-value = 39;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 900;
+value = 893;
 },
 {
 name = hheaDescender;
-value = -400;
+value = -293;
 },
 {
 name = hheaLineGap;
-value = 20;
+value = 0;
 },
 {
 name = winAscent;
@@ -322,27 +279,27 @@ custom = Italic;
 customParameters = (
 {
 name = typoAscender;
-value = 900;
+value = 893;
 },
 {
 name = typoDescender;
-value = -400;
+value = -293;
 },
 {
 name = typoLineGap;
-value = 39;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 900;
+value = 893;
 },
 {
 name = hheaDescender;
-value = -400;
+value = -293;
 },
 {
 name = hheaLineGap;
-value = 20;
+value = 0;
 },
 {
 name = winAscent;
@@ -386,27 +343,27 @@ capHeight = 727;
 customParameters = (
 {
 name = typoAscender;
-value = 900;
+value = 893;
 },
 {
 name = typoDescender;
-value = -400;
+value = -293;
 },
 {
 name = typoLineGap;
-value = 39;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 900;
+value = 893;
 },
 {
 name = hheaDescender;
-value = -400;
+value = -293;
 },
 {
 name = hheaLineGap;
-value = 20;
+value = 0;
 },
 {
 name = winAscent;
@@ -454,27 +411,27 @@ custom = Italic;
 customParameters = (
 {
 name = typoAscender;
-value = 900;
+value = 893;
 },
 {
 name = typoDescender;
-value = -400;
+value = -293;
 },
 {
 name = typoLineGap;
-value = 39;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 900;
+value = 893;
 },
 {
 name = hheaDescender;
-value = -400;
+value = -293;
 },
 {
 name = hheaLineGap;
-value = 20;
+value = 0;
 },
 {
 name = winAscent;
@@ -14151,7 +14108,7 @@ type = Stem;
 }
 );
 layerId = "D6F52D5C-CC45-4C78-BFA6-49A819939AB8";
-name = "[0, 0.5]";
+name = "testin [0, 0.5]";
 paths = (
 {
 closed = 1;
@@ -14224,7 +14181,7 @@ type = Stem;
 }
 );
 layerId = "9068953E-976B-4E6F-9B1A-0B703C34EC0C";
-name = "]1000, 0.5]";
+name = "testing]1000, 0.5]";
 paths = (
 {
 closed = 1;
@@ -52714,5 +52671,5 @@ y = 309;
 UFOFormat = 2;
 };
 versionMajor = 7;
-versionMinor = 28;
+versionMinor = 500;
 }
