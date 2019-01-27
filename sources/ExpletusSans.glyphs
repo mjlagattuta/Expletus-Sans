@@ -255,7 +255,6 @@ alignmentZones = (
 );
 ascender = 1800;
 capHeight = 1454;
-custom = Italic;
 customParameters = (
 {
 name = typoAscender;
@@ -387,7 +386,6 @@ alignmentZones = (
 );
 ascender = 1800;
 capHeight = 1454;
-custom = Italic;
 customParameters = (
 {
 name = typoAscender;
