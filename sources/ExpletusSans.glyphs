@@ -1,5 +1,5 @@
 {
-.appVersion = "1141";
+.appVersion = "1192";
 DisplayStrings = (
 "aáâäàåã",
 "Expletus Sans\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmnopqrstuvwxyz\0120123456789 &"
@@ -11,7 +11,7 @@ code = "A Aacute Acircumflex Adieresis Agrave Aring Atilde AE B C Ccedilla D Eth
 name = Uppercase;
 }
 );
-copyright = "Copyright 2018 The Expletus Sans Project Authors (https://bitbucket.org/lassefister/old-googlefontdirectory/src/21142f3bf7ad39d89c1c682d30830494ef1c905c/ofl/expletussans/?at=default), with Reserved Font Name \"Expletus Sans\".";
+copyright = "Copyright 2019 The Expletus Sans Project Authors (https://bitbucket.org/lassefister/old-googlefontdirectory/src/21142f3bf7ad39d89c1c682d30830494ef1c905c/ofl/expletussans/?at=default), with Reserved Font Name \"Expletus Sans\".";
 customParameters = (
 {
 name = licenseURL;
@@ -26,13 +26,6 @@ name = openTypeNameSampleText;
 value = "";
 },
 {
-name = openTypeOS2FamilyClass;
-value = (
-0,
-0
-);
-},
-{
 name = openTypeOS2Panose;
 value = (
 2,
@@ -45,11 +38,6 @@ value = (
 0,
 0,
 0
-);
-},
-{
-name = openTypeOS2Selection;
-value = (
 );
 },
 {
@@ -118,10 +106,6 @@ name = trademark;
 value = "Expletus Sans is a trademark of Designtown.";
 },
 {
-name = year;
-value = 2009;
-},
-{
 name = Axes;
 value = (
 {
@@ -135,7 +119,7 @@ Tag = ital;
 );
 },
 {
-name = "Variation Font Origin";
+name = "Variable Font Origin";
 value = "BAA2CE79-BA31-4701-835E-3D9478C3F4B2";
 },
 {
@@ -149,10 +133,6 @@ value = 1;
 {
 name = "Disable Last Change";
 value = 1;
-},
-{
-name = "Use Line Breaks";
-value = 0;
 }
 );
 date = "2018-12-14 04:20:38 +0000";
@@ -212,11 +192,11 @@ capHeight = 727;
 customParameters = (
 {
 name = typoAscender;
-value = 893;
+value = 970;
 },
 {
 name = typoDescender;
-value = -293;
+value = -369;
 },
 {
 name = typoLineGap;
@@ -224,11 +204,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 893;
+value = 970;
 },
 {
 name = hheaDescender;
-value = -293;
+value = -369;
 },
 {
 name = hheaLineGap;
@@ -279,11 +259,11 @@ custom = Italic;
 customParameters = (
 {
 name = typoAscender;
-value = 893;
+value = 970;
 },
 {
 name = typoDescender;
-value = -293;
+value = -369;
 },
 {
 name = typoLineGap;
@@ -291,11 +271,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 893;
+value = 970;
 },
 {
 name = hheaDescender;
-value = -293;
+value = -369;
 },
 {
 name = hheaLineGap;
@@ -343,11 +323,11 @@ capHeight = 727;
 customParameters = (
 {
 name = typoAscender;
-value = 893;
+value = 970;
 },
 {
 name = typoDescender;
-value = -293;
+value = -369;
 },
 {
 name = typoLineGap;
@@ -355,11 +335,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 893;
+value = 970;
 },
 {
 name = hheaDescender;
-value = -293;
+value = -369;
 },
 {
 name = hheaLineGap;
@@ -411,11 +391,11 @@ custom = Italic;
 customParameters = (
 {
 name = typoAscender;
-value = 893;
+value = 970;
 },
 {
 name = typoDescender;
-value = -293;
+value = -369;
 },
 {
 name = typoLineGap;
@@ -423,11 +403,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 893;
+value = 970;
 },
 {
 name = hheaDescender;
-value = -293;
+value = -369;
 },
 {
 name = hheaLineGap;
@@ -14108,7 +14088,7 @@ type = Stem;
 }
 );
 layerId = "D6F52D5C-CC45-4C78-BFA6-49A819939AB8";
-name = "testin [0, 0.5]";
+name = "[0, 0.5]";
 paths = (
 {
 closed = 1;
@@ -14181,7 +14161,7 @@ type = Stem;
 }
 );
 layerId = "9068953E-976B-4E6F-9B1A-0B703C34EC0C";
-name = "testing]1000, 0.5]";
+name = "]1000, 0.5]";
 paths = (
 {
 closed = 1;
