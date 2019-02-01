@@ -1,0 +1,2 @@
+ttfautohint-vf --stem-width-mode nnn -m add-hints/Roman-ttfa-ctrl.txt ExpletusSans-Roman-VF.ttf hinted/ExpletusSans-Roman-VF-Hinted.ttf
+ttfautohint-vf --stem-width-mode nnn -m add-hints/Italic-ttfa-ctrl.txt ExpletusSans-Italic-VF.ttf hinted/ExpletusSans-Italic-VF-Hinted.ttf
