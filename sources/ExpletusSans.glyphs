@@ -1,9 +1,7 @@
 {
 .appVersion = "3099";
 DisplayStrings = (
-"Expletus/space Sans\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmnopqrstuvwxyz\0120123456789/space &",
-"a/a.001 áâäàåãæ",
-"¹²³/foursuperior ½¼¾"
+"Expletus/space Sans\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmnopqrstuvwxyz\0120123456789/space &"
 );
 classes = (
 {
@@ -10918,6 +10916,42 @@ width = 787;
 }
 );
 unicode = 2074;
+},
+{
+glyphname = fraction;
+layers = (
+{
+layerId = "BAA2CE79-BA31-4701-835E-3D9478C3F4B2";
+paths = (
+{
+closed = 1;
+nodes = (
+"94 0 LINE",
+"966 1454 LINE",
+"842 1454 LINE",
+"-30 0 LINE {name = hr00;}"
+);
+}
+);
+width = 936;
+},
+{
+layerId = "58254875-FB9E-4C1D-8B15-704836B9A7CF";
+paths = (
+{
+closed = 1;
+nodes = (
+"196 0 LINE",
+"1068 1454 LINE",
+"852 1454 LINE",
+"-20 0 LINE {name = hr00;}"
+);
+}
+);
+width = 1048;
+}
+);
+unicode = 2044;
 },
 {
 color = 6;

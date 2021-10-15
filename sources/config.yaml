@@ -2,7 +2,6 @@
       - ExpletusSans.glyphs
       - ExpletusSans-Italic.glyphs
     axisOrder:
-      - opsz
       - wght
       - ital
     familyName: ExpletusSans
