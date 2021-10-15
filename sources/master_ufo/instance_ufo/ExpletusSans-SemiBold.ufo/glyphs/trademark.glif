@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark" format="2">
+  <advance width="1456.0"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="703.7272727272727" y="858.0" type="line"/>
+      <point x="835.0454545454545" y="858.0" type="line"/>
+      <point x="920.7727272727273" y="1270.8636363636363" type="line"/>
+      <point x="928.0" y="1306.409090909091" type="line"/>
+      <point x="933.5454545454545" y="1270.8636363636363" type="line"/>
+      <point x="1023.4090909090909" y="868.0" type="line"/>
+      <point x="1144.590909090909" y="868.0" type="line"/>
+      <point x="1329.409090909091" y="1270.090909090909" type="line"/>
+      <point x="1344.9545454545455" y="1306.409090909091" type="line"/>
+      <point x="1342.6363636363637" y="1270.090909090909" type="line"/>
+      <point x="1328.5" y="858.0" type="line"/>
+      <point x="1457.1818181818182" y="858.0" type="line"/>
+      <point x="1467.6363636363637" y="1456.0" type="line"/>
+      <point x="1298.9545454545455" y="1456.0" type="line"/>
+      <point x="1110.4545454545455" y="1043.3181818181818" type="line"/>
+      <point x="1101.6818181818182" y="1016.5454545454545" type="line"/>
+      <point x="1098.4545454545455" y="1043.3181818181818" type="line"/>
+      <point x="1013.8181818181819" y="1456.0" type="line"/>
+      <point x="841.2727272727273" y="1456.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="325.27272727272725" y="858.0" type="line"/>
+      <point x="463.5" y="858.0" type="line"/>
+      <point x="525.0454545454545" y="1353.909090909091" type="line"/>
+      <point x="691.8636363636364" y="1353.909090909091" type="line"/>
+      <point x="704.3181818181819" y="1456.0" type="line"/>
+      <point x="232.45454545454547" y="1456.0" type="line"/>
+      <point x="220.0" y="1353.909090909091" type="line" name="hr00"/>
+      <point x="386.8181818181818" y="1353.909090909091" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>5</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>7</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>0</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

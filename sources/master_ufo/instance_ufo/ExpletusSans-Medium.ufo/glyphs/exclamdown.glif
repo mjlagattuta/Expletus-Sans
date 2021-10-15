@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown" format="2">
+  <advance width="702.0"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="75.45454545454545" y="-420.0" type="line" name="hr00"/>
+      <point x="288.54545454545456" y="-420.0" type="line"/>
+      <point x="386.0" y="639.4545454545455" type="line"/>
+      <point x="232.54545454545456" y="639.4545454545455" type="line"/>
+    </contour>
+    <contour>
+      <point x="326.72727272727275" y="798.3636363636364" type="curve" smooth="yes"/>
+      <point x="402.72727272727275" y="798.3636363636364"/>
+      <point x="467.27272727272725" y="856.9090909090909"/>
+      <point x="477.8181818181818" y="932.9090909090909" type="curve" smooth="yes"/>
+      <point x="486.3636363636364" y="1007.4545454545455"/>
+      <point x="436.0" y="1063.4545454545455"/>
+      <point x="360.0" y="1063.4545454545455" type="curve" smooth="yes"/>
+      <point x="284.90909090909093" y="1063.4545454545455"/>
+      <point x="221.8181818181818" y="1007.4545454545455"/>
+      <point x="213.27272727272728" y="932.9090909090909" type="curve"/>
+      <point x="202.72727272727272" y="856.9090909090909"/>
+      <point x="251.63636363636363" y="798.3636363636364"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>3</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>8</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>1</integer>
+            <integer>2</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

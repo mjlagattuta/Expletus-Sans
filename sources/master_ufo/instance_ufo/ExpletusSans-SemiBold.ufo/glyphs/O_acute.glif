@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oacute" format="2">
+  <advance width="1579.5454545454545"/>
+  <unicode hex="00D3"/>
+  <anchor x="791.0" y="0.0" name="bottom"/>
+  <anchor x="880.2272727272727" y="728.0" name="center"/>
+  <anchor x="1359.5454545454545" y="12.272727272727273" name="ogonek"/>
+  <anchor x="1009.0" y="1780.0" name="top"/>
+  <anchor x="186.9090909090909" y="1454.0" name="topleft"/>
+  <anchor x="1655.5454545454545" y="1454.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="acutecomb.case" xOffset="657.8181818181819"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-28</integer>
+            <integer>144</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>1338</integer>
+            <integer>442</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

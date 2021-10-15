@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
+  <advance width="701.6363636363636"/>
+  <unicode hex="004A"/>
+  <anchor x="252.72727272727272" y="-385.45454545454544" name="bottom"/>
+  <anchor x="607.2727272727273" y="1454.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="27.272727272727273" y="-423.6363636363636" type="line"/>
+      <point x="338.0" y="-230.72727272727272"/>
+      <point x="524.7272727272727" y="-100.0"/>
+      <point x="567.8181818181819" y="256.0" type="curve" name="hr00"/>
+      <point x="715.8181818181819" y="1454.0" type="line"/>
+      <point x="498.72727272727275" y="1454.0" type="line"/>
+      <point x="350.72727272727275" y="256.0" type="line"/>
+      <point x="313.8181818181818" y="-47.63636363636364"/>
+      <point x="168.36363636363637" y="-139.27272727272728"/>
+      <point x="-49.63636363636363" y="-304.72727272727275" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>2</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>7</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

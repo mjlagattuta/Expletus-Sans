@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.case" format="2">
+  <anchor x="208" y="1454" name="_top"/>
+  <anchor x="208" y="1780" name="top"/>
+  <outline>
+    <contour>
+      <point x="80" y="1530" type="line"/>
+      <point x="148" y="1512"/>
+      <point x="294" y="1526"/>
+      <point x="374" y="1616" type="curve" name="hr00"/>
+      <point x="518" y="1780" type="line"/>
+      <point x="252" y="1780" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=40</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=40</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>598</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

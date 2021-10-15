@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="v" format="2">
+  <advance width="1048.909090909091"/>
+  <unicode hex="0076"/>
+  <anchor x="526.7272727272727" y="0.0" name="bottom"/>
+  <anchor x="656.1818181818181" y="1034.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="414.54545454545456" y="0.0" type="line" name="hr00"/>
+      <point x="638.3636363636364" y="0.0" type="line"/>
+      <point x="1145.8181818181818" y="1020.0" type="line"/>
+      <point x="933.6363636363636" y="1034.0" type="line"/>
+      <point x="574.3636363636364" y="248.1818181818182" type="line"/>
+      <point x="553.8181818181819" y="195.45454545454544" type="line"/>
+      <point x="544.9090909090909" y="248.1818181818182" type="line"/>
+      <point x="378.1818181818182" y="1034.0" type="line"/>
+      <point x="152.54545454545453" y="1034.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>8</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>0</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

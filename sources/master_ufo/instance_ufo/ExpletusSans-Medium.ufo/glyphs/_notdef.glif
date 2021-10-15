@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name=".notdef" format="2">
+  <advance width="1518.0"/>
+  <outline>
+    <contour>
+      <point x="352.72727272727275" y="1454.0" type="line"/>
+      <point x="174.72727272727272" y="0.0" type="line"/>
+      <point x="1346.7272727272727" y="0.0" type="line"/>
+      <point x="1524.7272727272727" y="1454.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="432.54545454545456" y="1363.090909090909" type="line"/>
+      <point x="1420.7272727272727" y="1363.090909090909" type="line"/>
+      <point x="1264.909090909091" y="90.9090909090909" type="line"/>
+      <point x="276.72727272727275" y="90.9090909090909" type="line"/>
+    </contour>
+    <component base="question" xScale="0.56447" yScale="0.56447" xOffset="488.0" yOffset="324.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>question</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

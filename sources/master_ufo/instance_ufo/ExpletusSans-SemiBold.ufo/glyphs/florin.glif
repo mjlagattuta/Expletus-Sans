@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="florin" format="2">
+  <advance width="1048.0"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="-2.0" y="-282.0" type="line"/>
+      <point x="234.0" y="-226.0"/>
+      <point x="423.45454545454544" y="-114.0"/>
+      <point x="481.45454545454544" y="150.0" type="curve"/>
+      <point x="667.7727272727273" y="994.9545454545455" type="line" smooth="yes"/>
+      <point x="705.1818181818181" y="1156.909090909091"/>
+      <point x="815.4090909090909" y="1244.2727272727273"/>
+      <point x="938.4545454545455" y="1244.2727272727273" type="curve" smooth="yes"/>
+      <point x="982.9090909090909" y="1244.2727272727273"/>
+      <point x="1032.4545454545455" y="1235.8181818181818"/>
+      <point x="1106.0" y="1209.9545454545455" type="curve"/>
+      <point x="1195.6363636363637" y="1366.3181818181818" type="line"/>
+      <point x="1105.5" y="1410.0"/>
+      <point x="1018.1363636363636" y="1423.2272727272727"/>
+      <point x="952.1363636363636" y="1423.2272727272727" type="curve" smooth="yes"/>
+      <point x="693.4090909090909" y="1423.2272727272727"/>
+      <point x="495.0" y="1250.0"/>
+      <point x="437.0" y="987.2272727272727" type="curve" smooth="yes"/>
+      <point x="425.0" y="931.2272727272727" type="line"/>
+      <point x="246.6818181818182" y="890.4545454545455" type="line"/>
+      <point x="229.77272727272728" y="756.4090909090909" type="line"/>
+      <point x="386.8636363636364" y="756.4090909090909" type="line"/>
+      <point x="252.36363636363637" y="152.0909090909091" type="line"/>
+      <point x="212.04545454545453" y="-24.590909090909093"/>
+      <point x="107.86363636363636" y="-86.72727272727272"/>
+      <point x="-22.136363636363637" y="-128.72727272727272" type="curve"/>
+    </contour>
+    <contour>
+      <point x="685.6363636363636" y="756.4090909090909" type="curve"/>
+      <point x="990.8636363636364" y="756.4090909090909" type="line"/>
+      <point x="1012.5454545454545" y="931.2272727272727" type="line" name="hr00"/>
+      <point x="912.1818181818181" y="931.2272727272727" type="line"/>
+      <point x="803.9090909090909" y="931.2272727272727"/>
+      <point x="730.4090909090909" y="839.7727272727273"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>0</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>4</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>1</integer>
+            <integer>0</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>5</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>1</integer>
+            <integer>4</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashlongcomb" format="2">
+  <unicode hex="0338"/>
+  <anchor x="548.7272727272727" y="508.0" name="_center"/>
+  <outline>
+    <contour>
+      <point x="447.4090909090909" y="241.3181818181818" type="curve"/>
+      <point x="1095.4545454545455" y="1146.0" type="line"/>
+      <point x="922.9090909090909" y="1146.0" type="line"/>
+      <point x="431.1363636363636" y="464.5" type="line"/>
+      <point x="379.3181818181818" y="382.09090909090907"/>
+      <point x="407.4090909090909" y="293.3181818181818"/>
+    </contour>
+    <contour>
+      <point x="0.0" y="-132.0" type="line"/>
+      <point x="178.54545454545456" y="-132.0" type="line" name="hr01"/>
+      <point x="299.1818181818182" y="38.18181818181818" type="line"/>
+      <point x="175.54545454545453" y="115.0909090909091" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=40</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=40</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1068</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

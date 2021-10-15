@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n" format="2">
+  <advance width="1156"/>
+  <unicode hex="006E"/>
+  <anchor x="570" y="0" name="bottom"/>
+  <anchor x="692" y="1034" name="top"/>
+  <outline>
+    <contour>
+      <point x="752" y="0" type="line"/>
+      <point x="1030" y="0" type="line"/>
+      <point x="1120" y="738" type="line" smooth="yes"/>
+      <point x="1146" y="956"/>
+      <point x="1020" y="1060"/>
+      <point x="882" y="1060" type="curve" smooth="yes"/>
+      <point x="790" y="1060"/>
+      <point x="692" y="1038"/>
+      <point x="552" y="968" type="curve"/>
+      <point x="582" y="904"/>
+      <point x="614" y="832"/>
+      <point x="678" y="836" type="curve" name="hr01"/>
+      <point x="716" y="838"/>
+      <point x="738" y="848"/>
+      <point x="764" y="848" type="curve" smooth="yes"/>
+      <point x="832" y="848"/>
+      <point x="850" y="800"/>
+      <point x="842" y="734" type="curve"/>
+    </contour>
+    <contour>
+      <point x="106" y="0" type="line"/>
+      <point x="386" y="0" type="line"/>
+      <point x="484" y="814" type="line" smooth="yes"/>
+      <point x="494" y="894"/>
+      <point x="488" y="962"/>
+      <point x="432" y="1034" type="curve"/>
+      <point x="198" y="1024" type="line"/>
+      <point x="208" y="930"/>
+      <point x="208" y="846"/>
+      <point x="200" y="772" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>4</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>5</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>1</integer>
+            <integer>1</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

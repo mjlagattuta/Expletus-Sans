@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OE" format="2">
+  <advance width="2012"/>
+  <unicode hex="0152"/>
+  <anchor x="1144" y="0" name="bottom"/>
+  <anchor x="1322" y="1454" name="top"/>
+  <outline>
+    <contour>
+      <point x="806" y="-28" type="curve" smooth="yes" name="hr02"/>
+      <point x="902" y="-28"/>
+      <point x="996" y="0"/>
+      <point x="1128" y="0" type="curve" smooth="yes"/>
+      <point x="1906" y="0" type="line"/>
+      <point x="1930" y="206" type="line"/>
+      <point x="1312" y="206" type="line"/>
+      <point x="1440" y="1248" type="line"/>
+      <point x="2026" y="1248" type="line"/>
+      <point x="2052" y="1454" type="line"/>
+      <point x="1306" y="1454" type="line" smooth="yes" name="hr01"/>
+      <point x="1184" y="1454"/>
+      <point x="1100" y="1484"/>
+      <point x="992" y="1484" type="curve" smooth="yes"/>
+      <point x="550" y="1484"/>
+      <point x="228" y="1164"/>
+      <point x="174" y="728" type="curve" smooth="yes"/>
+      <point x="120" y="286"/>
+      <point x="354" y="-28"/>
+    </contour>
+    <contour>
+      <point x="830" y="178" type="curve" smooth="yes"/>
+      <point x="554" y="178"/>
+      <point x="444" y="452"/>
+      <point x="478" y="728" type="curve" smooth="yes"/>
+      <point x="514" y="1024"/>
+      <point x="690" y="1278"/>
+      <point x="966" y="1278" type="curve" smooth="yes"/>
+      <point x="1036" y="1278"/>
+      <point x="1098" y="1266"/>
+      <point x="1154" y="1244" type="curve"/>
+      <point x="1026" y="210" type="line"/>
+      <point x="966" y="188"/>
+      <point x="900" y="178"/>
+    </contour>
+    <contour>
+      <point x="1444" y="662" type="curve"/>
+      <point x="1886" y="662" type="line"/>
+      <point x="1912" y="864" type="line"/>
+      <point x="1670" y="864" type="line" smooth="yes"/>
+      <point x="1554" y="864"/>
+      <point x="1482" y="750"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>E</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>9</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>6</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>2</integer>
+            <integer>5</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>2</integer>
+            <integer>2</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>5</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>2</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>12</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>1</integer>
+            <integer>12</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>6</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>18</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

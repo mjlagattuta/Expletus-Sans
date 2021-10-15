@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal" format="2">
+  <advance width="1212.0"/>
+  <unicode hex="003D"/>
+  <outline>
+    <contour>
+      <point x="227.54545454545453" y="775.5909090909091" type="line"/>
+      <point x="1171.5454545454545" y="775.5909090909091" type="line"/>
+      <point x="1193.2272727272727" y="948.4090909090909" type="line"/>
+      <point x="249.22727272727272" y="948.4090909090909" type="line"/>
+    </contour>
+    <contour>
+      <point x="173.54545454545453" y="333.59090909090907" type="line"/>
+      <point x="1117.5454545454545" y="333.59090909090907" type="line"/>
+      <point x="1138.4545454545455" y="506.40909090909093" type="line"/>
+      <point x="194.45454545454547" y="506.40909090909093" type="line" name="hr00"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>2</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>3</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>2</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>1</integer>
+            <integer>3</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name=".notdef" format="2">
+  <advance width="1502"/>
+  <outline>
+    <contour>
+      <point x="166" y="1454" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="1338" y="0" type="line"/>
+      <point x="1338" y="1454" type="line"/>
+    </contour>
+    <contour>
+      <point x="286" y="1334" type="line"/>
+      <point x="1216" y="1334" type="line"/>
+      <point x="1216" y="120" type="line"/>
+      <point x="286" y="120" type="line"/>
+    </contour>
+    <component base="question" xScale="0.56447" yScale="0.56447" xOffset="446" yOffset="324"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>question</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

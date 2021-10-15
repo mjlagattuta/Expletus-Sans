@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger" format="2">
+  <advance width="1134.0"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="453.45454545454544" y="-60.0" type="line"/>
+      <point x="626.5454545454545" y="-60.0" type="line" name="hr00"/>
+      <point x="804.5454545454545" y="1394.0" type="line"/>
+      <point x="631.4545454545455" y="1394.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="128.9090909090909" y="805.2727272727273" type="line"/>
+      <point x="303.6363636363636" y="805.2727272727273" type="line"/>
+      <point x="408.90909090909093" y="805.2727272727273"/>
+      <point x="468.3636363636364" y="878.1818181818181"/>
+      <point x="508.54545454545456" y="960.7272727272727" type="curve"/>
+      <point x="148.54545454545456" y="960.7272727272727" type="line"/>
+    </contour>
+    <contour>
+      <point x="987.2727272727273" y="805.2727272727273" type="curve"/>
+      <point x="1162.0" y="805.2727272727273" type="line"/>
+      <point x="1181.6363636363637" y="960.7272727272727" type="line"/>
+      <point x="821.6363636363636" y="960.7272727272727" type="line"/>
+      <point x="840.7272727272727" y="878.1818181818181"/>
+      <point x="882.0" y="805.2727272727273"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>0</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>2</integer>
+            <integer>5</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>2</integer>
+            <integer>0</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>1</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
+  <advance width="688"/>
+  <unicode hex="004A"/>
+  <anchor x="238" y="-380" name="bottom"/>
+  <anchor x="604" y="1454" name="top"/>
+  <outline>
+    <contour>
+      <point x="18" y="-416" type="line"/>
+      <point x="320" y="-228"/>
+      <point x="510" y="-94"/>
+      <point x="552" y="256" type="curve" name="hr00"/>
+      <point x="700" y="1454" type="line"/>
+      <point x="508" y="1454" type="line"/>
+      <point x="360" y="256" type="line"/>
+      <point x="322" y="-58"/>
+      <point x="170" y="-148"/>
+      <point x="-48" y="-314" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>2</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>7</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
