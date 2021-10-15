@@ -182,7 +182,7 @@ alignmentZones = (
 );
 ascender = 1800;
 capHeight = 1454;
-custom = "Regular Italic";
+custom = Italic;
 customParameters = (
 {
 name = typoAscender;
@@ -25665,7 +25665,7 @@ interpolationWeight = 96;
 instanceInterpolations = {
 "3BBF7C5C-CA4C-45AB-AE18-0528A0ACCA90" = 1;
 };
-name = "Regular Italic";
+name = Italic;
 },
 {
 interpolationWeight = 108;
