@@ -15,61 +15,6 @@ name = Uppercase;
 copyright = "Copyright 2019 The Expletus Sans Project Authors (https://github.com/mjlagattuta/Expletus-Sans), with Reserved Font Name 'Expletus Sans'.";
 customParameters = (
 {
-name = openTypeOS2Panose;
-value = (
-2,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
-);
-},
-{
-name = openTypeOS2StrikeoutPosition;
-value = 250;
-},
-{
-name = openTypeOS2StrikeoutSize;
-value = 50;
-},
-{
-name = openTypeOS2SubscriptXOffset;
-value = 0;
-},
-{
-name = openTypeOS2SubscriptXSize;
-value = 700;
-},
-{
-name = openTypeOS2SubscriptYOffset;
-value = 140;
-},
-{
-name = openTypeOS2SubscriptYSize;
-value = 650;
-},
-{
-name = openTypeOS2SuperscriptXOffset;
-value = 0;
-},
-{
-name = openTypeOS2SuperscriptXSize;
-value = 700;
-},
-{
-name = openTypeOS2SuperscriptYOffset;
-value = 477;
-},
-{
-name = openTypeOS2SuperscriptYSize;
-value = 650;
-},
-{
 name = fsType;
 value = (
 );
@@ -101,6 +46,32 @@ value = 1;
 {
 name = "Disable Last Change";
 value = 1;
+},
+{
+name = panose;
+value = (
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = "Axis Mappings";
+value = {
+wght = {
+400 = 96;
+500 = 108;
+600 = 123;
+700 = 140;
+};
+};
 },
 {
 name = licenseURL;
