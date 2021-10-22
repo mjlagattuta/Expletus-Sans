@@ -1,7 +1,8 @@
 {
 .appVersion = "3099";
 DisplayStrings = (
-"Expletus/space Sans\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmnopqrstuvwxyz\0120123456789/space &"
+"Expletus/space Sans\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmnopqrstuvwxyz\0120123456789/space &",
+HOolpg
 );
 classes = (
 {
@@ -146,19 +147,20 @@ fontMaster = (
 alignmentZones = (
 "{1454, 30}",
 "{1034, 20}",
-"{0, -28}",
-"{-482, -18}"
+"{0, -20}",
+"{-482, -18}",
+"{-482, -20}"
 );
-ascender = 1800;
+ascender = 1516;
 capHeight = 1454;
 customParameters = (
 {
 name = typoAscender;
-value = 1940;
+value = 1927;
 },
 {
 name = typoDescender;
-value = -738;
+value = -473;
 },
 {
 name = typoLineGap;
@@ -166,11 +168,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1940;
+value = 1927;
 },
 {
 name = hheaDescender;
-value = -738;
+value = -473;
 },
 {
 name = hheaLineGap;
@@ -178,7 +180,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1842;
+value = 1798;
 },
 {
 name = winDescent;
@@ -193,7 +195,7 @@ name = underlinePosition;
 value = -150;
 }
 );
-descender = -800;
+descender = -482;
 horizontalStems = (
 144,
 112,
@@ -213,18 +215,19 @@ alignmentZones = (
 "{1454, 30}",
 "{1034, 26}",
 "{0, -28}",
-"{-482, -18}"
+"{-482, -18}",
+"{-482, -20}"
 );
-ascender = 1800;
+ascender = 1516;
 capHeight = 1454;
 customParameters = (
 {
 name = typoAscender;
-value = 1940;
+value = 1927;
 },
 {
 name = typoDescender;
-value = -738;
+value = -473;
 },
 {
 name = typoLineGap;
@@ -232,11 +235,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1940;
+value = 1927;
 },
 {
 name = hheaDescender;
-value = -738;
+value = -473;
 },
 {
 name = hheaLineGap;
@@ -259,7 +262,7 @@ name = underlinePosition;
 value = -150;
 }
 );
-descender = -800;
+descender = -482;
 horizontalStems = (
 206,
 158,
