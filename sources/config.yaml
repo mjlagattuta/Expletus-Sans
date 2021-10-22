@@ -4,7 +4,7 @@
     axisOrder:
       - wght
       - ital
-    familyName: ExpletusSans
+    familyName: "Expletus Sans"
     stat:
       ExpletusSans[wght].ttf:
       - name: Weight
