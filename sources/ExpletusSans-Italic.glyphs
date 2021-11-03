@@ -1,5 +1,5 @@
 {
-.appVersion = "3099";
+.appVersion = "3100";
 DisplayStrings = (
 HOolqpg
 );
@@ -10,7 +10,7 @@ code = "A Aacute Acircumflex Adieresis Agrave Aring Atilde AE B C Ccedilla D Eth
 name = Uppercase;
 }
 );
-copyright = "Copyright 2019 The Expletus Sans Project Authors (https://github.com/mjlagattuta/Expletus-Sans), with Reserved Font Name 'Expletus Sans'.";
+copyright = "Copyright 2019 The Expletus Sans Project Authors (https://github.com/mjlagattuta/Expletus-Sans)";
 customParameters = (
 {
 name = fsType;
@@ -147,7 +147,6 @@ alignmentZones = (
 "{1454, 30}",
 "{1034, 20}",
 "{0, -20}",
-"{-482, -18}",
 "{-482, -20}"
 );
 ascender = 1516;
@@ -216,7 +215,6 @@ alignmentZones = (
 "{1454, 30}",
 "{1034, 26}",
 "{0, -28}",
-"{-482, -18}",
 "{-482, -20}"
 );
 ascender = 1516;
