@@ -11,7 +11,7 @@ code = "A Aacute Acircumflex Adieresis Agrave Aring Atilde AE B C Ccedilla D Eth
 name = Uppercase;
 }
 );
-copyright = "Copyright 2019 The Expletus Sans Project Authors (https://github.com/mjlagattuta/Expletus-Sans)";
+copyright = "Copyright 2019 The Expletus Sans Project Authors (https://github.com/googlefonts/Expletus-Sans)";
 customParameters = (
 {
 name = openTypeOS2Panose;
